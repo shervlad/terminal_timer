@@ -1,0 +1,3 @@
+pyfiglet==0.8.post1
+playsound==1.2.2
+curses==2.04
